@@ -1,2 +1,2 @@
 # React-native-amalgama
-app en react-native donde implemento react-navigation, con formulario con async-storage, animaciones y SoundPlayer
+app en react-native donde implemento react-navigation, formulario con async-storage, animaciones y SoundPlayer
